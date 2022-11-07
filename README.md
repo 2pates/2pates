@@ -4,8 +4,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-----
-
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -17,11 +15,11 @@
 
 ## Language skills
 
-<p align="left">C++</p>
+<div align="left">C++</div>
 
-<p align="left">C</p>
+<div align="left">C</div>
 
-<p align="left">python</p>
+<div align="left">python</div>
 
 <p align="left">HTML</p>
 
