@@ -9,8 +9,10 @@
   <img align="left" alt="Gaspard's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br/>
+<br/>
 
-- 👋 Hi, I’m @2pates, I'm a student from INSA Lyon
+- 👋 Hi, I’m Gaspard Serpinet, I'm a student from INSA Lyon
 - 👀 I’m interested in many project using C, C++ or python
 - 🌱 I’m currently learning bash scripts
 - 💞️ I’m looking to work with a company
